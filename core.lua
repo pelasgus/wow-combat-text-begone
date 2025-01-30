@@ -1,0 +1,1 @@
+/console floatingCombatTextCombatDamage 0
